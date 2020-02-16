@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "egl-core" : "/Users/apple/Documents/workspace/Open Source/Eagle (RN-TS)/@eagle/core"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
