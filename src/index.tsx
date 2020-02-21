@@ -1,6 +1,8 @@
 import * as React from 'react';
-import Eagle from 'egl-core';
+import {Text} from 'react-native';
+// import * as Eagle from 'egl-core';
 
 export const App: React.FC<{}> = () => {
-  return <Eagle />;
+  // console.log(Eagle);
+  return <Text>Eagle</Text>;
 };
